@@ -8,5 +8,7 @@ def loop():
         print(new line)
         print(test)
         x = random.randint(1,10)
+        test_1
+        test2
     return x
 
