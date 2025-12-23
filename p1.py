@@ -5,5 +5,8 @@ def loop():
         
     for each in range(2):
         print(x)
+        print(new line)
+        print(test)
         x = random.randint(1,10)
     return x
+
